@@ -1,0 +1,1 @@
+# ManipulacaoDeStrings.ConsoleApp
